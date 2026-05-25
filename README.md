@@ -146,6 +146,8 @@ Reusable UI components
 
 How It Works:
 
+You can use the files in a local installed compiler,or you can use the .exe file in windows
+
 The system boots into the main shell
 
 User selects a module
