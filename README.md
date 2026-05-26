@@ -2,6 +2,7 @@
 D.eSystem 5+ — Modular C‑Based Mini Operating System
 D.eSystem 5+ is the enhanced, optimized, and more modular evolution of D.eSystem 5.
 It is written entirely in C and designed to behave like a lightweight, console‑based operating environment with multiple built‑in system apps, a stable core loop, and a clean UI flow.
+Here is the online version of D.eSystem 5+ : https://onlinegdb.com/BRyE_pXrq
 
 D.eSystem 5+ focuses on structure, performance, and expandability, making it the most polished version of D.eSystem to date.
 
